@@ -1,3 +1,5 @@
+# Edits  
+Just going to be adding to the cfgs and stuff  
 # Weapons & Knives for CS:GO Community Servers
 CS:GO Custom Weapon Options (Skins, NameTag, StatTrak, Wear/Float, Knives)
 
